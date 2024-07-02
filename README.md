@@ -28,3 +28,17 @@ This project leverages the Global Terrorism Database (GTD) to conduct a comprehe
 
 Explore the repository for detailed analyses, visualizations, and methodologies used to study global terrorism trends.
 
+### Output 
+
+![image](https://github.com/Vaishnavit08/Global-Terrorism-Database-study/assets/92875011/ffd37990-4cff-47d1-a34f-98bbbef5e1ea)
+
+
+
+![image](https://github.com/Vaishnavit08/Global-Terrorism-Database-study/assets/92875011/6dfc6068-0f2a-4629-a673-a5b0c4fea192)
+
+
+![image](https://github.com/Vaishnavit08/Global-Terrorism-Database-study/assets/92875011/dbc3a46e-b578-4f1c-bdbf-67363f2d02e7)
+
+
+
+
